@@ -22,7 +22,7 @@ body {
 }
 
 .card {
-  max-width: 260px;
+  max-width: 310px;
   background-color: white;
   padding: 1rem;
   margin: 2rem auto;
@@ -40,7 +40,6 @@ body {
 }
 
 .card__hint {
-  font-size: 0.85rem;
   color: #7b879d;
 }
 /*# sourceMappingURL=styles.css.map */

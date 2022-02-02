@@ -23,7 +23,7 @@ body {
 }
 
 .card {
-  max-width: 260px;
+  max-width: 310px;
   background-color: $prColor1;
   padding: 1rem;
   margin: 2rem auto;
@@ -40,7 +40,7 @@ body {
   }
 
   &__hint {
-    font-size: 0.85rem;
+    //font-size: 0.9rem;
     color: $prColor3;
   }
 }

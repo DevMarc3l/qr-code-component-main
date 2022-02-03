@@ -1,1 +1,1 @@
-My Solution to [this](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) Front-End Mentor challenge. You can see a camparation between my solution and the design I recreated here.
+My Solution to [this](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) Front-End Mentor challenge. You can see a camparation between my solution and the design I recreated [here](https://www.frontendmentor.io/solutions/responsive-page-using-scss-and-bem-QHaK1wlZj).
